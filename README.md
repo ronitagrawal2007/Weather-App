@@ -83,9 +83,11 @@ This app requires **location permission** to fetch weather for your current posi
 
 ---
 ## Git Hub Link
+
 https://github.com/ronitagrawal2007/Weather-App.git
 
 ##App Link
+
 https://github.com/ronitagrawal2007/Weather-App/releases/tag/v1.0.0
 
 
